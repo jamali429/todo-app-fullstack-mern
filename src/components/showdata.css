@@ -1,0 +1,11 @@
+.showData
+{
+    display: flex;
+    background-color: black;
+    color: white;
+    width: 400px;
+    padding: 10px;
+    position: relative;
+    margin-top: 10px;
+    justify-content: space-between;
+}

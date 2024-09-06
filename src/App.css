@@ -1,0 +1,27 @@
+.container
+{
+  width: 400px;
+  margin: auto;
+  position: relative;
+  top: 40px;
+}
+
+h2{
+  text-align: center;
+}
+
+
+.field input{
+  border: none;
+  border-bottom: 1px solid black;
+  margin: 10px;
+  font-size: 20px;
+}
+
+button{
+  padding: 10px;
+}
+.showdata
+{
+  margin-top: 20px;
+}
